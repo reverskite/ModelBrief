@@ -1,0 +1,5 @@
+experiment_name,dataset,crop_mm,epochs,val_cases,dice,checkpoint
+Dataset503,503,,100,84,0.4202,final
+Dataset504_100,504,50,100,84,0.4557,final
+Dataset504_250,504,50,250,84,0.5085,final
+Dataset504_250_best,504,50,250,84,0.5124,best
